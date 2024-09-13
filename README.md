@@ -1,7 +1,7 @@
 ### Hi there, I'm Noel 🦕👋
 
 ## About Me
-A software engineer with a budding interest in embedded systems and cybersecurity. In love with low-level coding as understanding the tiny blocks from where huge complicated systems are built from is the most exciting thing in the world to me. Though you might catch me dabbling in webdev, python and other not so low-level thing from time to time :)
+A software engineer with a budding interest in embedded systems and cybersecurity. In love with low-level coding as understanding the fundamental tiny building blocks of huge complex systems is incredibly exciting to me. Though you might catch me dabbling in webdev, python and other not so low-level thing from time to time :)
 
 ## Projects
 
