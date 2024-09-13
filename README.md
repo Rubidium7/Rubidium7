@@ -5,7 +5,7 @@ A software engineer with a budding interest in embedded systems and cybersecurit
 
 ## Projects
 
-- [**minishell**](https://github.com/Rubidium7/minishell): A bash inspired shell (naturally) written in C
+- [**minishell**](https://github.com/Rubidium7/minishell): A bash inspired shell written (of course) in C
 - [**transcendence**](https://github.com/flowerbuddies/transcendence): A website for playing pong online mainly utilizing Django and Javascript
 - [**ft_irc**](https://github.com/Rubidium7/ft_irc): An irc server written in C++
 - [**philosophers**](https://github.com/Rubidium7/philosophers): A project tackling the classic multithreading problem of the dining philosophers
