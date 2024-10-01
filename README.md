@@ -15,7 +15,7 @@ A budding software engineer with a growing interest in embedded systems and cybe
 - [**libft**](https://github.com/Rubidium7/libft): my own library of basic C functions rebuilt from scratch
 
 ### :hammer_and_wrench: Languages and Tools :
-C, C++, Python, Django, Docker, lldb, Bash, Javascript, CSS,
-HTML, Git, PostgreSQL, Web socket protocol
+C, C++, Python, Rust, Django, Docker, lldb, Git, Bash, Javascript, CSS,
+HTML, PostgreSQL
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><img height=50 src="https://skillicons.dev/icons?i=docker"/><img height=50 src="https://skillicons.dev/icons?i=bash,linux,git,django,python,js,html,css"/><img height=50/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/> <img height=50 src="https://skillicons.dev/icons?i=python,rust"/> <img height=50 src="https://skillicons.dev/icons?i=docker"/> <img height=50 src="https://skillicons.dev/icons?i=bash,linux,git,django,js,html,css"/><img height=50/>
