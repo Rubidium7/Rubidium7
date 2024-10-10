@@ -5,17 +5,28 @@ A budding software engineer with a growing interest in embedded systems and cybe
 
 ## Projects
 
-- [**minishell**](https://github.com/Rubidium7/minishell): A bash inspired shell written (of course) in C
-- [**transcendence**](https://github.com/flowerbuddies/transcendence): A website for playing pong online mainly utilizing Django and Javascript
-- [**ft_irc**](https://github.com/Rubidium7/ft_irc): An irc server written in C++
+### Network Security
 - [**sha256**](https://github.com/Rubidium7/sha256): the sha256 hashing algorithm coded in Rust
 - [**md5**](https://github.com/Rubidium7/md5): the md5 hashing algorithm coded in Rust
 - [**ping**](https://github.com/Rubidium7/ping): the ping command made in C
-- [**philosophers**](https://github.com/Rubidium7/philosophers): A project tackling the classic multithreading problem of the dining philosophers
-- [**cub3d**](https://github.com/affmde/42-cub3d): 3D game made purely in C
-- [**inception**](https://github.com/Rubidium7/inception): A Docker project building containers for and setting up MariaDB, WordPress and Nginx
-- [**cpp_modules**](https://github.com/Rubidium7/cpp): small practice exercises to study C++
+
+### Web development
+- [**transcendence**](https://github.com/flowerbuddies/transcendence): a website for playing pong online mainly utilizing Django and Javascript
+- [**fullstack open**](https://github.com/Rubidium7/fullstack_open): doing the fullstack open course
+
+ ### DevOps
+- [**inception**](https://github.com/Rubidium7/inception): a Docker project building containers for and setting up MariaDB, WordPress and Nginx
+
+### C++
+- [**ft_irc**](https://github.com/Rubidium7/ft_irc): an irc server written in C++
+- [**cpp_modules**](https://github.com/Rubidium7/cpp): small practice exercises to study C++ 
+
+### C
+- [**minishell**](https://github.com/Rubidium7/minishell): a bash inspired shell written (of course) in C
 - [**libft**](https://github.com/Rubidium7/libft): my own library of basic C functions rebuilt from scratch
+- [**philosophers**](https://github.com/Rubidium7/philosophers): a project tackling the classic multithreading problem of the dining philosophers
+- [**cub3d**](https://github.com/affmde/42-cub3d): 3D game made purely in C
+
 
 ### :hammer_and_wrench: Languages and Tools :
 C, C++, Python, Rust, Django, Docker, lldb, Git, Bash, Javascript, CSS,
